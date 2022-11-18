@@ -4,9 +4,6 @@ const Header = () => {
   return (
     <header>
       <div className="nav-area">
-        <a href='/' className="logo">
-          Lizandro Varela
-        </a>
         <Navbar />
       </div>
     </header>

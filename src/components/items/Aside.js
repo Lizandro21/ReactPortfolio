@@ -5,7 +5,7 @@ function Aside() {
         <aside id="aboutme">
             <h2>About Me</h2>
             <div id="about">
-                <img id="profile" src={profile} alt="Aumio"></img>
+                <img id="profile" src={profile} alt="profile"></img>
                 <p>
                     This is my first Portfolio being build using react!
                     <br></br>

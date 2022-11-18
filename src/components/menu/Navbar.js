@@ -5,6 +5,9 @@ const Navbar = () => {
     return (
       <nav>
         <ul className="menus">
+        <a href='/' className="logo">
+          Lizandro Varela
+        </a>
           {menuItems.map((menu, index) => {
             return (
               <li className="menu-items" key={index}>
